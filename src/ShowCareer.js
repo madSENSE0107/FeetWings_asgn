@@ -1,6 +1,6 @@
 
 
-export default function jobs() {
+export default function ShowCareer() {
   return (
     <div>jobs</div>
   )

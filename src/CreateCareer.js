@@ -1,6 +1,6 @@
 
 
-export default function create_career() {
+export default function CreateCareer() {
   return (
     <div>create_career</div>
   )
